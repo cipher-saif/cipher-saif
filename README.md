@@ -496,47 +496,7 @@ Whether it's hunting threats, writing Python scripts, or studying adversary TTPs
 <!-- ============================================================ -->
 <div align="center">
 
-```
-░█████╗░░█████╗░███╗░░██╗████████╗██████╗░██╗██████╗░░██████╗
-██╔══██╗██╔══██╗████╗░██║╚══██╔══╝██╔══██╗██║██╔══██╗██╔════╝
-██║░░╚═╝██║░░██║██╔██╗██║░░░██║░░░██████╔╝██║██████╔╝╚█████╗░
-██║░░██╗██║░░██║██║╚████║░░░██║░░░██╔══██╗██║██╔══██╗░╚═══██╗
-╚█████╔╝╚█████╔╝██║░╚███║░░░██║░░░██║░░██║██║██████╔╝██████╔╝
-░╚════╝░░╚════╝░╚═╝░░╚══╝░░░╚═╝░░░╚═╝░░╚═╝╚═╝╚═════╝░╚═════╝░
-```
 
-<br/>
-
-<img src="https://raw.githubusercontent.com/cipher-saif/cipher-saif/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" width="100%"/>
-
-</div>
-<br/>
-
-<div align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:3b0080,100:7b2fff&height=3&section=header" width="100%"/></div>
-
-<br/>
-<!-- ============================================================ -->
-<!--                  TOP CONTRIBUTED REPOS                      -->
-<!-- ============================================================ -->
-<div align="center">
-
-```
-  ████████╗ ██████╗ ██████╗      ██████╗ ███████╗██████╗  ██████╗ ███████╗
-  ╚══██╔══╝██╔═══██╗██╔══██╗    ██╔══██╗██╔════╝██╔══██╗██╔═══██╗██╔════╝
-     ██║   ██║   ██║██████╔╝    ██████╔╝█████╗  ██████╔╝██║   ██║███████╗
-     ██║   ██║   ██║██╔═══╝     ██╔══██╗██╔══╝  ██╔═══╝ ██║   ██║╚════██║
-     ██║   ╚██████╔╝██║         ██║  ██║███████╗██║     ╚██████╔╝███████║
-     ╚═╝    ╚═════╝ ╚═╝         ╚═╝  ╚═╝╚══════╝╚═╝      ╚═════╝ ╚══════╝
-```
-
-<br/>
-
-![](https://github-contributor-stats.vercel.app/api?username=cipher-saif&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
-</div>
-<br/>
-
-<div align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:3b0080,100:7b2fff&height=3&section=header" width="100%"/></div>
 
 <br/>
 <!-- ============================================================ -->
