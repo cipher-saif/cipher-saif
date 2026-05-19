@@ -1,56 +1,42 @@
 <!-- ============================================================ -->
 <!--                    TOP HERO BANNER                          -->
 <!-- ============================================================ -->
-
 <div align="center">
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0117,50:3b0080,100:7b2fff&height=180&section=header&animation=fadeIn" width="100%"/>
-
 </div>
-
 <!-- ============================================================ -->
 <!--               BIG ASCII ART — NAME BLOCK                    -->
 <!-- ============================================================ -->
-
 <div align="center">
 
 ```
-
 ███╗░░░███╗░█████╗░██╗░░██╗░█████╗░███╗░░░███╗███╗░░░███╗███████╗██████╗░
 ████╗░████║██╔══██╗██║░░██║██╔══██╗████╗░████║████╗░████║██╔════╝██╔══██╗
 ██╔████╔██║██║░░██║███████║███████║██╔████╔██║██╔████╔██║█████╗░░██║░░██║
 ██║╚██╔╝██║██║░░██║██╔══██║██╔══██║██║╚██╔╝██║██║╚██╔╝██║██╔══╝░░██║░░██║
 ██║░╚═╝░██║╚█████╔╝██║░░██║██║░░██║██║░╚═╝░██║██║░╚═╝░██║███████╗██████╔╝
 ╚═╝░░░░░╚═╝░╚════╝░╚═╝░░╚═╝╚═╝░░╚═╝╚═╝░░░░░╚═╝╚═╝░░░░░╚═╝╚══════╝╚═════╝░
-
-
 ░██████╗░█████╗░██╗███████╗██╗░░░██╗██████╗░██████╗░██╗███╗░░██╗░░░
 ██╔════╝██╔══██╗██║██╔════╝██║░░░██║██╔══██╗██╔══██╗██║████╗░██║░░░
 ╚█████╗░███████║██║█████╗░░██║░░░██║██║░░██║██║░░██║██║██╔██╗██║░░░
 ░╚═══██╗██╔══██║██║██╔══╝░░██║░░░██║██║░░██║██║░░██║██║██║╚████║░░░
 ██████╔╝██║░░██║██║██║░░░░░╚██████╔╝██████╔╝██████╔╝██║██║░╚███║██╗
 ╚═════╝░╚═╝░░╚═╝╚═╝╚═╝░░░░░░╚═════╝░╚═════╝░╚═════╝░╚═╝╚═╝░░╚══╝╚═╝
-
 ```
 
 </div>
-
 <!-- ============================================================ -->
 <!--                   TYPING SVG ANIMATION                      -->
 <!-- ============================================================ -->
-
 <div align="center">
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&pause=1000&color=c084fc&center=true&vCenter=true&width=780&lines=Security+Operations+%7C+SOC+Engineering;Threat+Hunting+%7C+Incident+Response;Cloud+Security+%7C+Infrastructure+Defense;Python+Automation+%7C+Detection+Engineering;Always+Learning.+Always+Building.+Always+Evolving.)](https://git.io/typing-svg)
 
 </div>
-
 <br/>
-
 <!-- ============================================================ -->
 <!--                     STATUS BADGES                           -->
 <!-- ============================================================ -->
-
 <div align="center">
 
 ![Profile Views](https://komarev.com/ghpvc/?username=cipher-saif&style=for-the-badge&color=7b2fff&label=PROFILE+VIEWS)
@@ -60,35 +46,30 @@
 ![Status](https://img.shields.io/badge/STATUS-Open%20to%20Opportunities-a855f7?style=for-the-badge&labelColor=0d1117)
 
 </div>
-
 <br/>
 
-<div align="center">
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
-</div>
+<div align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:3b0080,100:7b2fff&height=3&section=header" width="100%"/></div>
 
 <!-- ============================================================ -->
 <!--                   TERMINAL HERO BLOCK                       -->
 <!-- ============================================================ -->
-
 <br/>
-
 <div align="center">
 
 ```bash
 ╔══════════════════════════════════════════════════════════════════╗
-║  ┌──[cipher-saif@secops]─[~]                                    ║
+║  ┌──[cipher-saif@secops]─[~]                                     ║
 ║  └─$ whoami                                                      ║
 ║                                                                  ║
 ║    Mohammed Saifuddin                                            ║
 ║    ├── Role       : Cybersecurity Engineer                       ║
-║    ├── Location   : Riyadh, Saudi Arabia 🇸🇦                    ║
+║    ├── Location   : Riyadh, Saudi Arabia 🇸🇦                      ║
 ║    ├── Focus      : Threat Detection · Cloud Security · SOC Ops  ║
-║    ├── Stack      : Python · Bash · Splunk · AWS · Kali Linux   ║
-║    ├── Contact    : moh.saif0614@gmail.com                      ║
+║    ├── Stack      : Python · Bash · Splunk · AWS · Kali Linux    ║
+║    ├── Contact    : moh.saif0614@gmail.com                       ║
 ║    └── Mission    : Engineering the defenses of tomorrow.        ║
 ║                                                                  ║
-║  ┌──[cipher-saif@secops]─[~]                                    ║
+║  ┌──[cipher-saif@secops]─[~]                                     ║
 ║  └─$ cat /etc/motto                                              ║
 ║                                                                  ║
 ║    "The quieter you become, the more you are able to hear."      ║
@@ -97,19 +78,14 @@
 ```
 
 </div>
-
 <br/>
 
-<div align="center">
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
-</div>
+<div align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:3b0080,100:7b2fff&height=3&section=header" width="100%"/></div>
 
 <br/>
-
 <!-- ============================================================ -->
 <!--                      ABOUT ME                               -->
 <!-- ============================================================ -->
-
 <div align="center">
 
 ```
@@ -122,12 +98,10 @@
 ```
 
 </div>
-
 <div align="center">
 <table border="0" cellspacing="0" cellpadding="0">
 <tr>
 <td>
-
 <div align="left">
 
 > ### *"Security isn't just my field. It's how I think."*
@@ -142,39 +116,31 @@ Whether it's hunting threats, writing Python scripts, or studying adversary TTPs
 ***I'm always building, always learning, always evolving.***
 
 </div>
-
 </td>
 </tr>
 </table>
 </div>
-
 <br/>
-
 <div align="center">
 
 | | |
 |:---|:---|
-| 🔭 &nbsp; **Currently Building** | SOC engineering workflows, threat detection pipelines, Python-based security automation |
-| 👯 &nbsp; **Open to Collaborate** | Open-source cybersecurity tools — SIEM dashboards, threat detection systems, CTF write-ups |
-| 🌱 &nbsp; **Currently Mastering** | SIEM & log analysis · Threat Hunting · Incident Response · Cloud Security (AWS) |
-| 💬 &nbsp; **Ask Me About** | Cybersecurity, SOC workflows, Python security tooling, Linux, ethical hacking |
-| 📫 &nbsp; **Reach Me** | moh.saif0614@gmail.com |
-| ⚡ &nbsp; **Fun Fact** | *I think in threat models — even on personal devices, I'm already mapping attacker entry points* |
+|  &nbsp; **Currently Building** | SOC engineering workflows, threat detection pipelines, Python-based security automation |
+|  &nbsp; **Open to Collaborate** | Open-source cybersecurity tools — SIEM dashboards, threat detection systems, CTF write-ups |
+|  &nbsp; **Currently Mastering** | SIEM & log analysis · Threat Hunting · Incident Response · Cloud Security (AWS) |
+|  &nbsp; **Ask Me About** | Cybersecurity, SOC workflows, Python security tooling, Linux, ethical hacking |
+|  &nbsp; **Reach Me** | moh.saif0614@gmail.com |
+|  &nbsp; **Fun Fact** | *I think in threat models — even on personal devices, I'm already mapping attacker entry points* |
 
 </div>
-
 <br/>
 
-<div align="center">
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
-</div>
+<div align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:3b0080,100:7b2fff&height=3&section=header" width="100%"/></div>
 
 <br/>
-
 <!-- ============================================================ -->
 <!--                     SOCIALS SECTION                         -->
 <!-- ============================================================ -->
-
 <div align="center">
 
 ```
@@ -197,19 +163,14 @@ Whether it's hunting threats, writing Python scripts, or studying adversary TTPs
 [![Email](https://img.shields.io/badge/Email-7b2fff?style=for-the-badge&logo=gmail&logoColor=white)](mailto:moh.saif0614@gmail.com)
 
 </div>
-
 <br/>
 
-<div align="center">
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
-</div>
+<div align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:3b0080,100:7b2fff&height=3&section=header" width="100%"/></div>
 
 <br/>
-
 <!-- ============================================================ -->
 <!--                CYBERSECURITY FOCUS AREAS                    -->
 <!-- ============================================================ -->
-
 <div align="center">
 
 ```
@@ -222,12 +183,11 @@ Whether it's hunting threats, writing Python scripts, or studying adversary TTPs
 ```
 
 <br/>
-
 <table>
   <thead>
     <tr>
-      <th>🛡️&nbsp;&nbsp;<i>Domain</i></th>
-      <th>🔍&nbsp;&nbsp;<i>Focus Areas</i></th>
+      <th>&nbsp;&nbsp;<i>Domain</i></th>
+      <th>&nbsp;&nbsp;<i>Focus Areas</i></th>
     </tr>
   </thead>
   <tbody>
@@ -243,21 +203,15 @@ Whether it's hunting threats, writing Python scripts, or studying adversary TTPs
     <tr><td><b>Linux Hardening</b></td><td>Privilege Escalation Defense · System Hardening · Auditd</td></tr>
   </tbody>
 </table>
-
 </div>
-
 <br/>
 
-<div align="center">
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
-</div>
+<div align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:3b0080,100:7b2fff&height=3&section=header" width="100%"/></div>
 
 <br/>
-
 <!-- ============================================================ -->
 <!--                     TECH STACK                              -->
 <!-- ============================================================ -->
-
 <div align="center">
 
 ```
@@ -270,11 +224,8 @@ Whether it's hunting threats, writing Python scripts, or studying adversary TTPs
 ```
 
 </div>
-
 <br/>
-
 <div align="center"><h4><i>[ Programming &amp; Scripting ]</i></h4></div>
-
 <div align="center">
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -287,11 +238,8 @@ Whether it's hunting threats, writing Python scripts, or studying adversary TTPs
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
 </div>
-
 <br/>
-
 <div align="center"><h4><i>[ Security Tools ]</i></h4></div>
-
 <div align="center">
 
 ![Splunk](https://img.shields.io/badge/splunk-%23000000.svg?style=for-the-badge&logo=splunk&logoColor=white)
@@ -302,11 +250,8 @@ Whether it's hunting threats, writing Python scripts, or studying adversary TTPs
 ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white)
 
 </div>
-
 <br/>
-
 <div align="center"><h4><i>[ Frameworks &amp; Libraries ]</i></h4></div>
-
 <div align="center">
 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
@@ -317,11 +262,8 @@ Whether it's hunting threats, writing Python scripts, or studying adversary TTPs
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 </div>
-
 <br/>
-
 <div align="center"><h4><i>[ Cloud &amp; DevOps ]</i></h4></div>
-
 <div align="center">
 
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
@@ -330,11 +272,8 @@ Whether it's hunting threats, writing Python scripts, or studying adversary TTPs
 ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34)
 
 </div>
-
 <br/>
-
 <div align="center"><h4><i>[ Databases ]</i></h4></div>
-
 <div align="center">
 
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
@@ -344,11 +283,8 @@ Whether it's hunting threats, writing Python scripts, or studying adversary TTPs
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 
 </div>
-
 <br/>
-
 <div align="center"><h4><i>[ Data &amp; AI ]</i></h4></div>
-
 <div align="center">
 
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
@@ -358,11 +294,8 @@ Whether it's hunting threats, writing Python scripts, or studying adversary TTPs
 ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
 
 </div>
-
 <br/>
-
 <div align="center"><h4><i>[ Design &amp; Creative ]</i></h4></div>
-
 <div align="center">
 
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
@@ -374,11 +307,8 @@ Whether it's hunting threats, writing Python scripts, or studying adversary TTPs
 ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white)
 
 </div>
-
 <br/>
-
 <div align="center"><h4><i>[ Tools &amp; Platforms ]</i></h4></div>
-
 <div align="center">
 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
@@ -390,19 +320,14 @@ Whether it's hunting threats, writing Python scripts, or studying adversary TTPs
 ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
 
 </div>
-
 <br/>
 
-<div align="center">
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
-</div>
+<div align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:3b0080,100:7b2fff&height=3&section=header" width="100%"/></div>
 
 <br/>
-
 <!-- ============================================================ -->
 <!--                   FEATURED PROJECTS                         -->
 <!-- ============================================================ -->
-
 <div align="center">
 
 ```
@@ -415,13 +340,10 @@ Whether it's hunting threats, writing Python scripts, or studying adversary TTPs
 ```
 
 </div>
-
 <br/>
-
 <details>
-<summary><b>🛡️&nbsp;&nbsp;Secure Login System with Attack Prevention</b></summary>
+<summary><b>&nbsp;&nbsp;𝙎𝙚𝙘𝙪𝙧𝙚 𝙇𝙤𝙜𝙞𝙣 𝙎𝙮𝙨𝙩𝙚𝙢 𝙬𝙞𝙩𝙝 𝘼𝙩𝙩𝙖𝙘𝙠 𝙋𝙧𝙚𝙫𝙚𝙣𝙩𝙞𝙤𝙣</b></summary>
 <br/>
-
 <div align="center">
 
 | Field | Details |
@@ -433,13 +355,10 @@ Whether it's hunting threats, writing Python scripts, or studying adversary TTPs
 
 </div>
 </details>
-
 <br/>
-
 <details>
-<summary><b>🎣&nbsp;&nbsp;Phishing Detection System</b></summary>
+<summary><b>&nbsp;&nbsp;𝙋𝙝𝙞𝙨𝙝𝙞𝙣𝙜 𝘿𝙚𝙩𝙚𝙘𝙩𝙞𝙤𝙣 𝙎𝙮𝙨𝙩𝙚𝙢</b></summary>
 <br/>
-
 <div align="center">
 
 | Field | Details |
@@ -451,13 +370,10 @@ Whether it's hunting threats, writing Python scripts, or studying adversary TTPs
 
 </div>
 </details>
-
 <br/>
-
 <details>
-<summary><b>📊&nbsp;&nbsp;Threat Detection Dashboard</b></summary>
+<summary><b>&nbsp;&nbsp;𝙏𝙝𝙧𝙚𝙖𝙩 𝘿𝙚𝙩𝙚𝙘𝙩𝙞𝙤𝙣 𝘿𝙖𝙨𝙝𝙗𝙤𝙖𝙧𝙙</b></summary>
 <br/>
-
 <div align="center">
 
 | Field | Details |
@@ -469,13 +385,10 @@ Whether it's hunting threats, writing Python scripts, or studying adversary TTPs
 
 </div>
 </details>
-
 <br/>
-
 <details>
-<summary><b>🔑&nbsp;&nbsp;Encrypted Password Manager</b></summary>
+<summary><b>&nbsp;&nbsp;𝙀𝙣𝙘𝙧𝙮𝙥𝙩𝙚𝙙 𝙋𝙖𝙨𝙨𝙬𝙤𝙧𝙙 𝙈𝙖𝙣𝙖𝙜𝙚𝙧</b></summary>
 <br/>
-
 <div align="center">
 
 | Field | Details |
@@ -487,13 +400,10 @@ Whether it's hunting threats, writing Python scripts, or studying adversary TTPs
 
 </div>
 </details>
-
 <br/>
-
 <details>
-<summary><b>⚙️&nbsp;&nbsp;SOC Automation Scripts</b></summary>
+<summary><b>&nbsp;&nbsp;𝙎𝙊𝘾 𝘼𝙪𝙩𝙤𝙢𝙖𝙩𝙞𝙤𝙣 𝙎𝙘𝙧𝙞𝙥𝙩𝙨</b></summary>
 <br/>
-
 <div align="center">
 
 | Field | Details |
@@ -505,13 +415,10 @@ Whether it's hunting threats, writing Python scripts, or studying adversary TTPs
 
 </div>
 </details>
-
 <br/>
-
 <details>
-<summary><b>🐧&nbsp;&nbsp;Linux Security Toolkit</b></summary>
+<summary><b>&nbsp;&nbsp;𝙇𝙞𝙣𝙪𝙭 𝙎𝙚𝙘𝙪𝙧𝙞𝙩𝙮 𝙏𝙤𝙤𝙡𝙠𝙞𝙩</b></summary>
 <br/>
-
 <div align="center">
 
 | Field | Details |
@@ -523,19 +430,14 @@ Whether it's hunting threats, writing Python scripts, or studying adversary TTPs
 
 </div>
 </details>
-
 <br/>
 
-<div align="center">
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
-</div>
+<div align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:3b0080,100:7b2fff&height=3&section=header" width="100%"/></div>
 
 <br/>
-
 <!-- ============================================================ -->
 <!--                    GITHUB STATS                             -->
 <!-- ============================================================ -->
-
 <div align="center">
 
 ```
@@ -560,19 +462,14 @@ Whether it's hunting threats, writing Python scripts, or studying adversary TTPs
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=cipher-saif&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=true&layout=compact&border_radius=10)
 
 </div>
-
 <br/>
 
-<div align="center">
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
-</div>
+<div align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:3b0080,100:7b2fff&height=3&section=header" width="100%"/></div>
 
 <br/>
-
 <!-- ============================================================ -->
 <!--                   GITHUB TROPHIES                           -->
 <!-- ============================================================ -->
-
 <div align="center">
 
 ```
@@ -589,19 +486,14 @@ Whether it's hunting threats, writing Python scripts, or studying adversary TTPs
 ![](https://github-profile-trophy.vercel.app/?username=cipher-saif&theme=darkhub&no-frame=true&no-bg=true&margin-w=6&column=7)
 
 </div>
-
 <br/>
 
-<div align="center">
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
-</div>
+<div align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:3b0080,100:7b2fff&height=3&section=header" width="100%"/></div>
 
 <br/>
-
 <!-- ============================================================ -->
 <!--              SNAKE CONTRIBUTION ANIMATION                   -->
 <!-- ============================================================ -->
-
 <div align="center">
 
 ```
@@ -618,19 +510,14 @@ Whether it's hunting threats, writing Python scripts, or studying adversary TTPs
 <img src="https://raw.githubusercontent.com/cipher-saif/cipher-saif/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" width="100%"/>
 
 </div>
-
 <br/>
 
-<div align="center">
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
-</div>
+<div align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:3b0080,100:7b2fff&height=3&section=header" width="100%"/></div>
 
 <br/>
-
 <!-- ============================================================ -->
 <!--                  TOP CONTRIBUTED REPOS                      -->
 <!-- ============================================================ -->
-
 <div align="center">
 
 ```
@@ -647,19 +534,14 @@ Whether it's hunting threats, writing Python scripts, or studying adversary TTPs
 ![](https://github-contributor-stats.vercel.app/api?username=cipher-saif&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 </div>
-
 <br/>
 
-<div align="center">
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
-</div>
+<div align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:3b0080,100:7b2fff&height=3&section=header" width="100%"/></div>
 
 <br/>
-
 <!-- ============================================================ -->
 <!--                   RANDOM DEV QUOTE                          -->
 <!-- ============================================================ -->
-
 <div align="center">
 
 ```
@@ -676,19 +558,14 @@ Whether it's hunting threats, writing Python scripts, or studying adversary TTPs
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 </div>
-
 <br/>
 
-<div align="center">
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
-</div>
+<div align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:3b0080,100:7b2fff&height=3&section=header" width="100%"/></div>
 
 <br/>
-
 <!-- ============================================================ -->
 <!--                  MISSION / GOALS                            -->
 <!-- ============================================================ -->
-
 <div align="center">
 
 ```
@@ -701,13 +578,11 @@ Whether it's hunting threats, writing Python scripts, or studying adversary TTPs
 ```
 
 </div>
-
 <br/>
 
 ```yaml
 mission:
   title: "Engineering Elite Security. One Layer at a Time."
-
   current_objectives:
     - Master advanced threat hunting and detection engineering
     - Deep-dive into cloud security architecture — AWS + Azure
@@ -715,21 +590,17 @@ mission:
     - Earn certifications: CompTIA Security+, CEH, AWS Security Specialty
     - Contribute to open-source cybersecurity tooling
     - Compete in CTF challenges to sharpen offensive skills
-
   long_term_vision:
     - Become a Cloud Security Architect
     - Lead security engineering teams at scale
     - Build tools that protect real infrastructure at scale
-
   status: ▓▓▓▓▓▓▓▓▓░  ACTIVE — EXECUTING
 ```
 
 <br/>
-
 <!-- ============================================================ -->
 <!--                   FOOTER BANNER                             -->
 <!-- ============================================================ -->
-
 <div align="center">
 
 ```
@@ -752,7 +623,6 @@ mission:
 <!-- ============================================================
   SNAKE ANIMATION SETUP
   Path: .github/workflows/snake.yml
-
   name: Generate Snake
   on:
     schedule:
