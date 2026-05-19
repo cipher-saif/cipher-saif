@@ -1,515 +1,777 @@
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--              CAPSULE RENDER — TOP BANNER                      -->
-<!--  Replace color/text params to customize the gradient banner   -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- ============================================================ -->
+<!--                    TOP HERO BANNER                          -->
+<!-- ============================================================ -->
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:00ff88,100:00cfff&height=200&section=header&text=Mohammed%20Saifuddin&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Cybersecurity%20Analyst%20%7C%20SOC%20Intern%20%7C%20Cloud%20Security%20Enthusiast&descAlignY=58&descSize=16&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0117,50:3b0080,100:7b2fff&height=180&section=header&animation=fadeIn" width="100%"/>
 
 </div>
 
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!--                  TYPING SVG ANIMATION                      -->
-<!--  Edit the lines[] array to change the rotating phrases     -->
-<!-- ═══════════════════════════════════════════════════════════ -->
+<!-- ============================================================ -->
+<!--               BIG ASCII ART — NAME BLOCK                    -->
+<!-- ============================================================ -->
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=00FF88&center=true&vCenter=true&width=700&lines=Security+Operations+%7C+SOC+Analysis;Threat+Hunting+%7C+Incident+Response;Cloud+Security+%7C+Infrastructure+Defense;Python+Automation+%7C+Security+Engineering;Always+Learning.+Always+Building.+Always+Evolving.)](https://git.io/typing-svg)
-
-</div>
-
-<br/>
-
-<!-- ═══════════════════════════════════════════════ -->
-<!--  STATUS BADGES — update profile link if needed -->
-<!-- ═══════════════════════════════════════════════ -->
-
-<div align="center">
-
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=for-the-badge&color=00ff88&label=PROFILE+VIEWS)
-&nbsp;
-[![GitHub followers](https://img.shields.io/github/followers/YOUR_GITHUB_USERNAME?style=for-the-badge&color=00cfff&labelColor=0d1117&label=FOLLOWERS)](https://github.com/YOUR_GITHUB_USERNAME)
-&nbsp;
-![Open to Work](https://img.shields.io/badge/STATUS-Open%20to%20Opportunities-00ff88?style=for-the-badge&labelColor=0d1117)
-
-</div>
-
-<br/>
-
----
-
-<!-- ═══════════════════════════════════════════ -->
-<!--              TERMINAL HERO BLOCK           -->
-<!-- ═══════════════════════════════════════════ -->
-
-```bash
-┌──[saif@secops]─[~]
-└─$ whoami
-
-  Mohammed Saifuddin
-  ├── Role       : SOC Intern | Security Engineering Student
-  ├── Location   : Riyadh, Saudi Arabia 🇸🇦
-  ├── Focus      : Threat Detection · Cloud Security · SOC Operations
-  ├── Currently  : B.Tech CSE Cybersecurity | Building real-world security projects
-  └── Mission    : Engineering the defenses of tomorrow.
-
-┌──[saif@secops]─[~]
-└─$ cat /etc/motto
-
-  "The quieter you become, the more you are able to hear." — Kali Linux
 ```
 
----
+███╗░░░███╗░█████╗░██╗░░██╗░█████╗░███╗░░░███╗███╗░░░███╗███████╗██████╗░
+████╗░████║██╔══██╗██║░░██║██╔══██╗████╗░████║████╗░████║██╔════╝██╔══██╗
+██╔████╔██║██║░░██║███████║███████║██╔████╔██║██╔████╔██║█████╗░░██║░░██║
+██║╚██╔╝██║██║░░██║██╔══██║██╔══██║██║╚██╔╝██║██║╚██╔╝██║██╔══╝░░██║░░██║
+██║░╚═╝░██║╚█████╔╝██║░░██║██║░░██║██║░╚═╝░██║██║░╚═╝░██║███████╗██████╔╝
+╚═╝░░░░░╚═╝░╚════╝░╚═╝░░╚═╝╚═╝░░╚═╝╚═╝░░░░░╚═╝╚═╝░░░░░╚═╝╚══════╝╚═════╝░
 
-<br/>
 
-<!-- ═══════════════════════════════════════════════ -->
-<!--               ABOUT ME SECTION                 -->
-<!-- ═══════════════════════════════════════════════ -->
+░██████╗░█████╗░██╗███████╗██╗░░░██╗██████╗░██████╗░██╗███╗░░██╗░░░
+██╔════╝██╔══██╗██║██╔════╝██║░░░██║██╔══██╗██╔══██╗██║████╗░██║░░░
+╚█████╗░███████║██║█████╗░░██║░░░██║██║░░██║██║░░██║██║██╔██╗██║░░░
+░╚═══██╗██╔══██║██║██╔══╝░░██║░░░██║██║░░██║██║░░██║██║██║╚████║░░░
+██████╔╝██║░░██║██║██║░░░░░╚██████╔╝██████╔╝██████╔╝██║██║░╚███║██╗
+╚═════╝░╚═╝░░╚═╝╚═╝╚═╝░░░░░░╚═════╝░╚═════╝░╚═════╝░╚═╝╚═╝░░╚══╝╚═╝
 
-## `> ./about_me.sh`
+```
 
-<img align="right" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="350" alt="coding gif"/>
+</div>
 
-&nbsp;
-
-🔐 &nbsp;**Security isn't just what I study — it's how I think.**
-
-I'm a Cybersecurity Engineering student currently operating as a SOC Intern, building hands-on experience across threat detection, SIEM monitoring, and cloud infrastructure defense. I don't chase theory — I chase real-world impact.
-
-🧠 &nbsp;Right now I'm:
-- Diving deep into **SIEM tooling**, **log analysis**, and **threat hunting workflows**
-- Engineering **Python-based security automation** scripts and detection tools
-- Studying **offensive** and **defensive** security concepts in parallel
-- Hardening systems using **Linux**, **Bash**, and **network security** fundamentals
-- Exploring **cloud security architecture** and **zero trust** frameworks
-
-💡 &nbsp;My approach: build fast, break things ethically, learn obsessively.
-
-🎯 &nbsp;Goal: Become a **Cloud Security Architect** and **Security Engineer** who ships tools that actually protect people.
-
-&nbsp;
-
----
-
-<br/>
-
-<!-- ═══════════════════════════════════════════════════ -->
-<!--            CYBERSECURITY FOCUS AREAS               -->
-<!-- ═══════════════════════════════════════════════════ -->
-
-## `> cat /var/focus_areas`
+<!-- ============================================================ -->
+<!--                   TYPING SVG ANIMATION                      -->
+<!-- ============================================================ -->
 
 <div align="center">
 
-| 🛡️ Domain | 🔍 Focus |
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&pause=1000&color=c084fc&center=true&vCenter=true&width=780&lines=Security+Operations+%7C+SOC+Engineering;Threat+Hunting+%7C+Incident+Response;Cloud+Security+%7C+Infrastructure+Defense;Python+Automation+%7C+Detection+Engineering;Always+Learning.+Always+Building.+Always+Evolving.)](https://git.io/typing-svg)
+
+</div>
+
+<br/>
+
+<!-- ============================================================ -->
+<!--                     STATUS BADGES                           -->
+<!-- ============================================================ -->
+
+<div align="center">
+
+![Profile Views](https://komarev.com/ghpvc/?username=cipher-saif&style=for-the-badge&color=7b2fff&label=PROFILE+VIEWS)
+&nbsp;
+[![GitHub followers](https://img.shields.io/github/followers/cipher-saif?style=for-the-badge&color=9d4edd&labelColor=0d1117&label=FOLLOWERS)](https://github.com/cipher-saif)
+&nbsp;
+![Status](https://img.shields.io/badge/STATUS-Open%20to%20Opportunities-a855f7?style=for-the-badge&labelColor=0d1117)
+
+</div>
+
+<br/>
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
+</div>
+
+<!-- ============================================================ -->
+<!--                   TERMINAL HERO BLOCK                       -->
+<!-- ============================================================ -->
+
+<br/>
+
+<div align="center">
+
+```bash
+╔══════════════════════════════════════════════════════════════════╗
+║  ┌──[cipher-saif@secops]─[~]                                    ║
+║  └─$ whoami                                                      ║
+║                                                                  ║
+║    Mohammed Saifuddin                                            ║
+║    ├── Role       : Cybersecurity Engineer                       ║
+║    ├── Location   : Riyadh, Saudi Arabia 🇸🇦                    ║
+║    ├── Focus      : Threat Detection · Cloud Security · SOC Ops  ║
+║    ├── Stack      : Python · Bash · Splunk · AWS · Kali Linux   ║
+║    ├── Contact    : moh.saif0614@gmail.com                      ║
+║    └── Mission    : Engineering the defenses of tomorrow.        ║
+║                                                                  ║
+║  ┌──[cipher-saif@secops]─[~]                                    ║
+║  └─$ cat /etc/motto                                              ║
+║                                                                  ║
+║    "The quieter you become, the more you are able to hear."      ║
+║                                           — Kali Linux           ║
+╚══════════════════════════════════════════════════════════════════╝
+```
+
+</div>
+
+<br/>
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
+</div>
+
+<br/>
+
+<!-- ============================================================ -->
+<!--                      ABOUT ME                               -->
+<!-- ============================================================ -->
+
+<div align="center">
+
+```
+ █████╗ ██████╗  ██████╗ ██╗   ██╗████████╗    ███╗   ███╗███████╗
+██╔══██╗██╔══██╗██╔═══██╗██║   ██║╚══██╔══╝    ████╗ ████║██╔════╝
+███████║██████╔╝██║   ██║██║   ██║   ██║       ██╔████╔██║█████╗  
+██╔══██║██╔══██╗██║   ██║██║   ██║   ██║       ██║╚██╔╝██║██╔══╝  
+██║  ██║██████╔╝╚██████╔╝╚██████╔╝   ██║       ██║ ╚═╝ ██║███████╗
+╚═╝  ╚═╝╚═════╝  ╚═════╝  ╚═════╝   ╚═╝       ╚═╝     ╚═╝╚══════╝
+```
+
+</div>
+
+<div align="center">
+<table border="0" cellspacing="0" cellpadding="0">
+<tr>
+<td>
+
+<div align="left">
+
+> ### *"Security isn't just my field. It's how I think."*
+
+I'm **Mohammed Saifuddin** — a Cybersecurity Engineer based in **Riyadh, Saudi Arabia**, operating at the intersection of ***Security Operations***, ***Cloud Defense***, and ***Python Automation***.
+
+My mindset: understand systems deeply enough to break them ethically — and defend them intelligently.
+
+I build security tools that solve real problems — from phishing detection systems and encrypted password managers to SOC automation pipelines and Linux hardening toolkits. My primary languages are **Python** and **Bash**, and I work across the full security stack: **Wireshark**, **Nmap**, **Burp Suite**, **Splunk**, **Elasticsearch**, and **Kali Linux**. On the cloud side, I work with **AWS** and am actively deepening my expertise in cloud security architecture.
+
+Whether it's hunting threats, writing Python scripts, or studying adversary TTPs —
+***I'm always building, always learning, always evolving.***
+
+</div>
+
+</td>
+</tr>
+</table>
+</div>
+
+<br/>
+
+<div align="center">
+
+| | |
 |:---|:---|
-| **Security Operations (SOC)** | SIEM Monitoring · Log Analysis · Alert Triage · SOC Workflows |
-| **Threat Intelligence** | Threat Hunting · IOC Analysis · TTPs · MITRE ATT&CK |
-| **Incident Response** | IR Playbooks · Containment · Forensic Investigation |
-| **Cloud Security** | AWS Security · IAM · Cloud Misconfiguration Detection · Zero Trust |
-| **Network Defense** | IDS/IPS · Firewall Analysis · Packet Inspection · Nmap |
-| **Web App Security** | OWASP Top 10 · Burp Suite · Vulnerability Assessment |
-| **Malware Analysis** | Static/Dynamic Analysis · Reverse Engineering Basics |
-| **Security Automation** | Python Scripts · Bash Automation · Detection Engineering |
-| **Digital Forensics** | Memory Analysis · Log Forensics · Artifact Recovery |
-| **Linux Hardening** | Privilege Escalation Defense · System Hardening · Auditd |
+| 🔭 &nbsp; **Currently Building** | SOC engineering workflows, threat detection pipelines, Python-based security automation |
+| 👯 &nbsp; **Open to Collaborate** | Open-source cybersecurity tools — SIEM dashboards, threat detection systems, CTF write-ups |
+| 🌱 &nbsp; **Currently Mastering** | SIEM & log analysis · Threat Hunting · Incident Response · Cloud Security (AWS) |
+| 💬 &nbsp; **Ask Me About** | Cybersecurity, SOC workflows, Python security tooling, Linux, ethical hacking |
+| 📫 &nbsp; **Reach Me** | moh.saif0614@gmail.com |
+| ⚡ &nbsp; **Fun Fact** | *I think in threat models — even on personal devices, I'm already mapping attacker entry points* |
 
 </div>
-
-<br/>
-
----
-
-<br/>
-
-<!-- ═══════════════════════════════════════════════ -->
-<!--            FEATURED PROJECTS SECTION           -->
-<!-- Replace repo links with your actual repo URLs  -->
-<!-- ═══════════════════════════════════════════════ -->
-
-## `> ls -la ~/projects/`
-
-<div align="center">
-
-<!-- PROJECT 1 -->
-<a href="https://github.com/YOUR_GITHUB_USERNAME/secure-login-system">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_GITHUB_USERNAME&repo=secure-login-system&theme=github_dark&border_color=00ff88&title_color=00ff88&icon_color=00cfff&text_color=ffffff" />
-</a>
-&nbsp;&nbsp;
-<!-- PROJECT 2 -->
-<a href="https://github.com/YOUR_GITHUB_USERNAME/phishing-detection-tool">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_GITHUB_USERNAME&repo=phishing-detection-tool&theme=github_dark&border_color=00cfff&title_color=00cfff&icon_color=00ff88&text_color=ffffff" />
-</a>
-
-<br/><br/>
-
-</div>
-
-### 🔐 Project Vault
-
-<details>
-<summary><b>🛡️ Secure Login System with Attack Prevention</b></summary>
-<br/>
-
-> **Purpose:** A hardened authentication system built to mitigate brute force, credential stuffing, and session hijacking attacks.
->
-> **Key Features:** Rate limiting · Account lockout · bcrypt password hashing · JWT session management · Login anomaly detection
->
-> **Tech Stack:** `Python` `Flask` `SQLite` `bcrypt` `JWT`
->
-> **Security Concepts:** OWASP A07 · Authentication hardening · Session security
-
-</details>
-
----
-
-<details>
-<summary><b>🎣 Phishing Detection System</b></summary>
-<br/>
-
-> **Purpose:** ML-assisted tool that analyzes URLs and email headers to classify phishing attempts with high accuracy.
->
-> **Key Features:** URL feature extraction · Blacklist comparison · NLP-based email analysis · Risk scoring dashboard
->
-> **Tech Stack:** `Python` `scikit-learn` `Pandas` `Flask` `VirusTotal API`
->
-> **Security Concepts:** Threat intelligence · Social engineering defense · Email security
-
-</details>
-
----
-
-<details>
-<summary><b>📊 Threat Detection Dashboard</b></summary>
-<br/>
-
-> **Purpose:** Real-time log ingestion and visualization dashboard simulating a mini-SIEM for threat visibility.
->
-> **Key Features:** Log parsing · Anomaly alerts · IP geolocation · Attack pattern visualization · Exportable reports
->
-> **Tech Stack:** `Python` `ELK Stack` `Grafana` `Bash` `JavaScript`
->
-> **Security Concepts:** SIEM engineering · Detection rules · Log analysis · SOC simulation
-
-</details>
-
----
-
-<details>
-<summary><b>🔑 Encrypted Password Manager</b></summary>
-<br/>
-
-> **Purpose:** CLI-based password vault with AES-256 encryption, master-key protection, and zero-knowledge architecture.
->
-> **Key Features:** AES-256 encryption · PBKDF2 key derivation · Clipboard auto-clear · Encrypted local storage
->
-> **Tech Stack:** `Python` `cryptography` `SQLite` `Argparse`
->
-> **Security Concepts:** Cryptography · Key management · Secure storage · Zero-knowledge design
-
-</details>
-
----
-
-<details>
-<summary><b>⚙️ SOC Automation Scripts</b></summary>
-<br/>
-
-> **Purpose:** Collection of Python and Bash scripts that automate repetitive SOC tasks — log parsing, IOC extraction, and alert enrichment.
->
-> **Key Features:** Log normalization · IOC enrichment via API · Automated reporting · Threat feed integration
->
-> **Tech Stack:** `Python` `Bash` `AbuseIPDB API` `VirusTotal API` `MISP`
->
-> **Security Concepts:** Detection engineering · SOC automation · Threat intelligence
-
-</details>
-
----
-
-<details>
-<summary><b>🐧 Linux Security Toolkit</b></summary>
-<br/>
-
-> **Purpose:** Hardening scripts and audit tools for Linux environments, targeting misconfigurations and privilege escalation vectors.
->
-> **Key Features:** CIS benchmark checks · SSH hardening · User audit · Firewall rule validation · Cron job analysis
->
-> **Tech Stack:** `Bash` `Python` `Linux` `Lynis` `auditd`
->
-> **Security Concepts:** Linux hardening · Privilege escalation defense · System auditing
-
-</details>
-
----
-
-<br/>
-
-<!-- ═══════════════════════════════════════════════ -->
-<!--              TECH STACK SECTION                -->
-<!-- ═══════════════════════════════════════════════ -->
-
-## `> systeminfo --stack`
-
-<br/>
-
-**[ Programming & Scripting ]**
-
-<div align="left">
-
-![Python](https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=00ff88&labelColor=0d1117)
-![JavaScript](https://img.shields.io/badge/JavaScript-0d1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E&labelColor=0d1117)
-![Bash](https://img.shields.io/badge/Bash-0d1117?style=for-the-badge&logo=gnu-bash&logoColor=00cfff&labelColor=0d1117)
-![HTML5](https://img.shields.io/badge/HTML5-0d1117?style=for-the-badge&logo=html5&logoColor=E34F26&labelColor=0d1117)
-![CSS3](https://img.shields.io/badge/CSS3-0d1117?style=for-the-badge&logo=css3&logoColor=1572B6&labelColor=0d1117)
-
-</div>
-
-<br/>
-
-**[ Cybersecurity Tools ]**
-
-<div align="left">
-
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-0d1117?style=for-the-badge&logo=kalilinux&logoColor=00ff88&labelColor=0d1117)
-![Wireshark](https://img.shields.io/badge/Wireshark-0d1117?style=for-the-badge&logo=wireshark&logoColor=1679A7&labelColor=0d1117)
-![Burp Suite](https://img.shields.io/badge/Burp_Suite-0d1117?style=for-the-badge&logo=burpsuite&logoColor=FF6633&labelColor=0d1117)
-![Nmap](https://img.shields.io/badge/Nmap-0d1117?style=for-the-badge&logo=nmap&logoColor=00cfff&labelColor=0d1117)
-![Metasploit](https://img.shields.io/badge/Metasploit-0d1117?style=for-the-badge&logo=metasploit&logoColor=2596CD&labelColor=0d1117)
-![SIEM](https://img.shields.io/badge/SIEM-0d1117?style=for-the-badge&logo=elasticstack&logoColor=00ff88&labelColor=0d1117)
-
-</div>
-
-<br/>
-
-**[ Cloud & Infrastructure ]**
-
-<div align="left">
-
-![AWS](https://img.shields.io/badge/AWS-0d1117?style=for-the-badge&logo=amazonwebservices&logoColor=FF9900&labelColor=0d1117)
-![Linux](https://img.shields.io/badge/Linux-0d1117?style=for-the-badge&logo=linux&logoColor=FCC624&labelColor=0d1117)
-![Docker](https://img.shields.io/badge/Docker-0d1117?style=for-the-badge&logo=docker&logoColor=2496ED&labelColor=0d1117)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-0d1117?style=for-the-badge&logo=githubactions&logoColor=00cfff&labelColor=0d1117)
-
-</div>
-
-<br/>
-
-**[ Dev Tools ]**
-
-<div align="left">
-
-![Git](https://img.shields.io/badge/Git-0d1117?style=for-the-badge&logo=git&logoColor=F05032&labelColor=0d1117)
-![VS Code](https://img.shields.io/badge/VS_Code-0d1117?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC&labelColor=0d1117)
-![Postman](https://img.shields.io/badge/Postman-0d1117?style=for-the-badge&logo=postman&logoColor=FF6C37&labelColor=0d1117)
-![Figma](https://img.shields.io/badge/Figma-0d1117?style=for-the-badge&logo=figma&logoColor=F24E1E&labelColor=0d1117)
-![Obsidian](https://img.shields.io/badge/Obsidian-0d1117?style=for-the-badge&logo=obsidian&logoColor=7C3AED&labelColor=0d1117)
-
-</div>
-
-<br/>
-
----
-
-<br/>
-
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!--                   GITHUB STATS SECTION                    -->
-<!-- Replace YOUR_GITHUB_USERNAME with your actual username    -->
-<!-- ═══════════════════════════════════════════════════════════ -->
-
-## `> git log --stats`
 
 <br/>
 
 <div align="center">
-
-<!-- Trophies -->
-[![trophy](https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=matrix&no-frame=true&no-bg=true&margin-w=6&column=7)](https://github.com/ryo-ma/github-profile-trophy)
-
-<br/><br/>
-
-<!-- Stats + Streak side by side -->
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=github_dark&border_color=00ff88&icon_color=00ff88&title_color=00ff88&text_color=ffffff&hide_border=false&include_all_commits=true&count_private=true" height="180"/>
-&nbsp;&nbsp;
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=github-dark-blue&border=00ff88&ring=00ff88&fire=00cfff&currStreakLabel=00ff88&sideLabels=ffffff" height="180"/>
-
-<br/><br/>
-
-<!-- Top Languages -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=github_dark&border_color=00ff88&title_color=00ff88&text_color=ffffff&hide_border=false&langs_count=8" height="180"/>
-
-<br/><br/>
-
-<!-- Activity Graph -->
-[![Saif's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&bg_color=0d1117&color=00ff88&line=00cfff&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
 </div>
 
 <br/>
 
----
-
-<br/>
-
-<!-- ═══════════════════════════════════════════ -->
-<!--       SNAKE CONTRIBUTION ANIMATION        -->
-<!-- ═══════════════════════════════════════════ -->
-
-## `> watch -n 1 contrib --animate`
+<!-- ============================================================ -->
+<!--                     SOCIALS SECTION                         -->
+<!-- ============================================================ -->
 
 <div align="center">
 
-<!-- 
-  To enable the snake: 
-  1. Go to your GitHub repository (username/username)
-  2. Add a GitHub Action using the "Platane/snk" workflow
-  3. It will auto-generate the snake SVG into your repo
-  Replace YOUR_GITHUB_USERNAME below with your actual username
--->
+```
+███████╗ ██████╗  ██████╗██╗ █████╗ ██╗     ███████╗
+██╔════╝██╔═══██╗██╔════╝██║██╔══██╗██║     ██╔════╝
+███████╗██║   ██║██║     ██║███████║██║     ███████╗
+╚════██║██║   ██║██║     ██║██╔══██║██║     ╚════██║
+███████║╚██████╔╝╚██████╗██║██║  ██║███████╗███████║
+╚══════╝ ╚═════╝  ╚═════╝╚═╝╚═╝  ╚═╝╚══════╝╚══════╝
+```
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake.svg"/>
-  <img alt="github-snake" src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake-dark.svg"/>
-</picture>
+<br/>
+
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/somebodycalledsaif)
+&nbsp;
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammed-saifuddin-380445404)
+&nbsp;
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/cipher-saif)
+&nbsp;
+[![Email](https://img.shields.io/badge/Email-7b2fff?style=for-the-badge&logo=gmail&logoColor=white)](mailto:moh.saif0614@gmail.com)
 
 </div>
 
 <br/>
 
----
+<div align="center">
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
+</div>
 
 <br/>
 
-<!-- ═══════════════════════════════════════════════ -->
-<!--         CURRENT MISSION / GOALS SECTION        -->
-<!-- ═══════════════════════════════════════════════ -->
+<!-- ============================================================ -->
+<!--                CYBERSECURITY FOCUS AREAS                    -->
+<!-- ============================================================ -->
 
-## `> cat /etc/mission.conf`
+<div align="center">
+
+```
+░█████╗░██╗░░░██╗██████╗░███████╗██████╗░  ███████╗███████╗░█████╗░
+██╔══██╗╚██╗░██╔╝██╔══██╗██╔════╝██╔══██╗  ██╔════╝██╔════╝██╔══██╗
+██║░░╚═╝░╚████╔╝░██████╦╝█████╗░░██████╔╝  ███████╗█████╗░░██║░░╚═╝
+██║░░██╗░░╚██╔╝░░██╔══██╗██╔══╝░░██╔══██╗  ╚════██║██╔══╝░░██║░░██╗
+╚█████╔╝░░░██║░░░██████╦╝███████╗██║░░██║  ███████║███████╗╚█████╔╝
+░╚════╝░░░░╚═╝░░░╚═════╝░╚══════╝╚═╝░░╚═╝  ╚══════╝╚══════╝░╚════╝░
+```
+
+<br/>
+
+<table>
+  <thead>
+    <tr>
+      <th>🛡️&nbsp;&nbsp;<i>Domain</i></th>
+      <th>🔍&nbsp;&nbsp;<i>Focus Areas</i></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr><td><b>Security Operations (SOC)</b></td><td>SIEM Monitoring · Log Analysis · Alert Triage · SOC Workflows</td></tr>
+    <tr><td><b>Threat Intelligence</b></td><td>Threat Hunting · IOC Analysis · TTPs · MITRE ATT&CK</td></tr>
+    <tr><td><b>Incident Response</b></td><td>IR Playbooks · Containment · Forensic Investigation</td></tr>
+    <tr><td><b>Cloud Security</b></td><td>AWS Security · IAM · Misconfiguration Detection · Zero Trust</td></tr>
+    <tr><td><b>Network Defense</b></td><td>IDS/IPS · Firewall Analysis · Packet Inspection · Nmap</td></tr>
+    <tr><td><b>Web App Security</b></td><td>OWASP Top 10 · Burp Suite · Vulnerability Assessment</td></tr>
+    <tr><td><b>Malware Analysis</b></td><td>Static/Dynamic Analysis · Reverse Engineering Basics</td></tr>
+    <tr><td><b>Security Automation</b></td><td>Python Scripts · Bash Automation · Detection Engineering</td></tr>
+    <tr><td><b>Digital Forensics</b></td><td>Memory Analysis · Log Forensics · Artifact Recovery</td></tr>
+    <tr><td><b>Linux Hardening</b></td><td>Privilege Escalation Defense · System Hardening · Auditd</td></tr>
+  </tbody>
+</table>
+
+</div>
+
+<br/>
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
+</div>
+
+<br/>
+
+<!-- ============================================================ -->
+<!--                     TECH STACK                              -->
+<!-- ============================================================ -->
+
+<div align="center">
+
+```
+████████╗███████╗░█████╗░██╗░░██╗    ░██████╗████████╗░█████╗░░█████╗░██╗░░██╗
+╚══██╔══╝██╔════╝██╔══██╗██║░░██║    ██╔════╝╚══██╔══╝██╔══██╗██╔══██╗██║░██╔╝
+░░░██║░░░█████╗░░██║░░╚═╝███████║    ╚█████╗░░░░██║░░░███████║██║░░╚═╝█████═╝░
+░░░██║░░░██╔══╝░░██║░░██╗██╔══██║    ░╚═══██╗░░░██║░░░██╔══██║██║░░██╗██╔═██╗░
+░░░██║░░░███████╗╚█████╔╝██║░░██║    ██████╔╝░░░██║░░░██║░░██║╚█████╔╝██║░╚██╗
+░░░╚═╝░░░╚══════╝░╚════╝░╚═╝░░╚═╝    ╚═════╝░░░░╚═╝░░░╚═╝░░╚═╝░╚════╝░╚═╝░░╚═╝
+```
+
+</div>
+
+<br/>
+
+<div align="center"><h4><i>[ Programming &amp; Scripting ]</i></h4></div>
+
+<div align="center">
+
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+
+</div>
+
+<br/>
+
+<div align="center"><h4><i>[ Security Tools ]</i></h4></div>
+
+<div align="center">
+
+![Splunk](https://img.shields.io/badge/splunk-%23000000.svg?style=for-the-badge&logo=splunk&logoColor=white)
+![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-005571?style=for-the-badge&logo=elasticsearch)
+![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black)
+![Wireguard](https://img.shields.io/badge/wireguard-%2388171A.svg?style=for-the-badge&logo=wireguard&logoColor=white)
+![Pi-Hole](https://img.shields.io/badge/pihole-%2396060C.svg?style=for-the-badge&logo=pi-hole&logoColor=white)
+![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+
+</div>
+
+<br/>
+
+<div align="center"><h4><i>[ Frameworks &amp; Libraries ]</i></h4></div>
+
+<div align="center">
+
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+</div>
+
+<br/>
+
+<div align="center"><h4><i>[ Cloud &amp; DevOps ]</i></h4></div>
+
+<div align="center">
+
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
+![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34)
+
+</div>
+
+<br/>
+
+<div align="center"><h4><i>[ Databases ]</i></h4></div>
+
+<div align="center">
+
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+
+</div>
+
+<br/>
+
+<div align="center"><h4><i>[ Data &amp; AI ]</i></h4></div>
+
+<div align="center">
+
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
+
+</div>
+
+<br/>
+
+<div align="center"><h4><i>[ Design &amp; Creative ]</i></h4></div>
+
+<div align="center">
+
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
+![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
+![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)
+![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white)
+![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white)
+![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white)
+
+</div>
+
+<br/>
+
+<div align="center"><h4><i>[ Tools &amp; Platforms ]</i></h4></div>
+
+<div align="center">
+
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
+![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
+![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
+![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
+
+</div>
+
+<br/>
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
+</div>
+
+<br/>
+
+<!-- ============================================================ -->
+<!--                   FEATURED PROJECTS                         -->
+<!-- ============================================================ -->
+
+<div align="center">
+
+```
+██████╗ ██████╗  ██████╗      ██╗███████╗ ██████╗████████╗███████╗
+██╔══██╗██╔══██╗██╔═══██╗     ██║██╔════╝██╔════╝╚══██╔══╝██╔════╝
+██████╔╝██████╔╝██║   ██║     ██║█████╗  ██║        ██║   ███████╗
+██╔═══╝ ██╔══██╗██║   ██║██   ██║██╔══╝  ██║        ██║   ╚════██║
+██║     ██║  ██║╚██████╔╝╚█████╔╝███████╗╚██████╗   ██║   ███████║
+╚═╝     ╚═╝  ╚═╝ ╚═════╝  ╚════╝ ╚══════╝ ╚═════╝   ╚═╝   ╚══════╝
+```
+
+</div>
+
+<br/>
+
+<details>
+<summary><b>🛡️&nbsp;&nbsp;Secure Login System with Attack Prevention</b></summary>
+<br/>
+
+<div align="center">
+
+| Field | Details |
+|:---|:---|
+| ***Purpose*** | A hardened authentication system built to mitigate brute force, credential stuffing, and session hijacking attacks |
+| ***Key Features*** | Rate limiting · Account lockout · bcrypt password hashing · JWT session management · Login anomaly detection |
+| ***Tech Stack*** | `Python` &nbsp; `Flask` &nbsp; `SQLite` &nbsp; `bcrypt` &nbsp; `JWT` |
+| ***Security Concepts*** | OWASP A07 · Authentication hardening · Session security |
+
+</div>
+</details>
+
+<br/>
+
+<details>
+<summary><b>🎣&nbsp;&nbsp;Phishing Detection System</b></summary>
+<br/>
+
+<div align="center">
+
+| Field | Details |
+|:---|:---|
+| ***Purpose*** | ML-assisted tool that analyzes URLs and email headers to classify phishing attempts with high accuracy |
+| ***Key Features*** | URL feature extraction · Blacklist comparison · NLP-based email analysis · Risk scoring dashboard |
+| ***Tech Stack*** | `Python` &nbsp; `scikit-learn` &nbsp; `Pandas` &nbsp; `Streamlit` &nbsp; `VirusTotal API` |
+| ***Security Concepts*** | Threat intelligence · Social engineering defense · Email security |
+
+</div>
+</details>
+
+<br/>
+
+<details>
+<summary><b>📊&nbsp;&nbsp;Threat Detection Dashboard</b></summary>
+<br/>
+
+<div align="center">
+
+| Field | Details |
+|:---|:---|
+| ***Purpose*** | Real-time log ingestion and visualization dashboard simulating a mini-SIEM for threat visibility |
+| ***Key Features*** | Log parsing · Anomaly alerts · IP geolocation · Attack pattern visualization · Exportable reports |
+| ***Tech Stack*** | `Python` &nbsp; `Elasticsearch` &nbsp; `Splunk` &nbsp; `Grafana` &nbsp; `Bash` |
+| ***Security Concepts*** | SIEM engineering · Detection rules · Log analysis · SOC simulation |
+
+</div>
+</details>
+
+<br/>
+
+<details>
+<summary><b>🔑&nbsp;&nbsp;Encrypted Password Manager</b></summary>
+<br/>
+
+<div align="center">
+
+| Field | Details |
+|:---|:---|
+| ***Purpose*** | CLI-based password vault with AES-256 encryption, master-key protection, and zero-knowledge architecture |
+| ***Key Features*** | AES-256 encryption · PBKDF2 key derivation · Clipboard auto-clear · Encrypted local storage |
+| ***Tech Stack*** | `Python` &nbsp; `cryptography` &nbsp; `SQLite` &nbsp; `Argparse` |
+| ***Security Concepts*** | Cryptography · Key management · Secure storage · Zero-knowledge design |
+
+</div>
+</details>
+
+<br/>
+
+<details>
+<summary><b>⚙️&nbsp;&nbsp;SOC Automation Scripts</b></summary>
+<br/>
+
+<div align="center">
+
+| Field | Details |
+|:---|:---|
+| ***Purpose*** | Python and Bash scripts that automate repetitive SOC tasks — log parsing, IOC extraction, and alert enrichment |
+| ***Key Features*** | Log normalization · IOC enrichment via API · Automated reporting · Threat feed integration |
+| ***Tech Stack*** | `Python` &nbsp; `Bash` &nbsp; `AbuseIPDB API` &nbsp; `VirusTotal API` |
+| ***Security Concepts*** | Detection engineering · SOC automation · Threat intelligence |
+
+</div>
+</details>
+
+<br/>
+
+<details>
+<summary><b>🐧&nbsp;&nbsp;Linux Security Toolkit</b></summary>
+<br/>
+
+<div align="center">
+
+| Field | Details |
+|:---|:---|
+| ***Purpose*** | Hardening scripts and audit tools for Linux environments, targeting misconfigurations and privilege escalation vectors |
+| ***Key Features*** | CIS benchmark checks · SSH hardening · User audit · Firewall rule validation · Cron job analysis |
+| ***Tech Stack*** | `Bash` &nbsp; `Python` &nbsp; `Linux` &nbsp; `Lynis` &nbsp; `auditd` |
+| ***Security Concepts*** | Linux hardening · Privilege escalation defense · System auditing |
+
+</div>
+</details>
+
+<br/>
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
+</div>
+
+<br/>
+
+<!-- ============================================================ -->
+<!--                    GITHUB STATS                             -->
+<!-- ============================================================ -->
+
+<div align="center">
+
+```
+░██████╗████████╗░█████╗░████████╗░██████╗
+██╔════╝╚══██╔══╝██╔══██╗╚══██╔══╝██╔════╝
+╚█████╗░░░░██║░░░███████║░░░██║░░░╚█████╗░
+░╚═══██╗░░░██║░░░██╔══██║░░░██║░░░░╚═══██╗
+██████╔╝░░░██║░░░██║░░██║░░░██║░░░██████╔╝
+╚═════╝░░░░╚═╝░░░╚═╝░░╚═╝░░░╚═╝░░░╚═════╝░
+```
+
+<br/>
+
+![](https://github-readme-stats.vercel.app/api?username=cipher-saif&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=true&border_radius=10)
+
+<br/>
+
+![](https://streak-stats.demolab.com/?user=cipher-saif&theme=midnight-purple&hide_border=true&border_radius=10)
+
+<br/>
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=cipher-saif&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=true&layout=compact&border_radius=10)
+
+</div>
+
+<br/>
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
+</div>
+
+<br/>
+
+<!-- ============================================================ -->
+<!--                   GITHUB TROPHIES                           -->
+<!-- ============================================================ -->
+
+<div align="center">
+
+```
+████████╗██████╗  ██████╗ ██████╗ ██╗  ██╗██╗███████╗███████╗
+╚══██╔══╝██╔══██╗██╔═══██╗██╔══██╗██║  ██║██║██╔════╝██╔════╝
+   ██║   ██████╔╝██║   ██║██████╔╝███████║██║█████╗  ███████╗
+   ██║   ██╔══██╗██║   ██║██╔═══╝ ██╔══██║██║██╔══╝  ╚════██║
+   ██║   ██║  ██║╚██████╔╝██║     ██║  ██║██║███████╗███████║
+   ╚═╝   ╚═╝  ╚═╝ ╚═════╝ ╚═╝     ╚═╝  ╚═╝╚═╝╚══════╝╚══════╝
+```
+
+<br/>
+
+![](https://github-profile-trophy.vercel.app/?username=cipher-saif&theme=darkhub&no-frame=true&no-bg=true&margin-w=6&column=7)
+
+</div>
+
+<br/>
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
+</div>
+
+<br/>
+
+<!-- ============================================================ -->
+<!--              SNAKE CONTRIBUTION ANIMATION                   -->
+<!-- ============================================================ -->
+
+<div align="center">
+
+```
+░█████╗░░█████╗░███╗░░██╗████████╗██████╗░██╗██████╗░░██████╗
+██╔══██╗██╔══██╗████╗░██║╚══██╔══╝██╔══██╗██║██╔══██╗██╔════╝
+██║░░╚═╝██║░░██║██╔██╗██║░░░██║░░░██████╔╝██║██████╔╝╚█████╗░
+██║░░██╗██║░░██║██║╚████║░░░██║░░░██╔══██╗██║██╔══██╗░╚═══██╗
+╚█████╔╝╚█████╔╝██║░╚███║░░░██║░░░██║░░██║██║██████╔╝██████╔╝
+░╚════╝░░╚════╝░╚═╝░░╚══╝░░░╚═╝░░░╚═╝░░╚═╝╚═╝╚═════╝░╚═════╝░
+```
+
+<br/>
+
+<img src="https://raw.githubusercontent.com/cipher-saif/cipher-saif/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" width="100%"/>
+
+</div>
+
+<br/>
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
+</div>
+
+<br/>
+
+<!-- ============================================================ -->
+<!--                  TOP CONTRIBUTED REPOS                      -->
+<!-- ============================================================ -->
+
+<div align="center">
+
+```
+  ████████╗ ██████╗ ██████╗      ██████╗ ███████╗██████╗  ██████╗ ███████╗
+  ╚══██╔══╝██╔═══██╗██╔══██╗    ██╔══██╗██╔════╝██╔══██╗██╔═══██╗██╔════╝
+     ██║   ██║   ██║██████╔╝    ██████╔╝█████╗  ██████╔╝██║   ██║███████╗
+     ██║   ██║   ██║██╔═══╝     ██╔══██╗██╔══╝  ██╔═══╝ ██║   ██║╚════██║
+     ██║   ╚██████╔╝██║         ██║  ██║███████╗██║     ╚██████╔╝███████║
+     ╚═╝    ╚═════╝ ╚═╝         ╚═╝  ╚═╝╚══════╝╚═╝      ╚═════╝ ╚══════╝
+```
+
+<br/>
+
+![](https://github-contributor-stats.vercel.app/api?username=cipher-saif&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+</div>
+
+<br/>
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
+</div>
+
+<br/>
+
+<!-- ============================================================ -->
+<!--                   RANDOM DEV QUOTE                          -->
+<!-- ============================================================ -->
+
+<div align="center">
+
+```
+  ██████╗ ██╗   ██╗ ██████╗ ████████╗███████╗
+ ██╔═══██╗██║   ██║██╔═══██╗╚══██╔══╝██╔════╝
+ ██║   ██║██║   ██║██║   ██║   ██║   █████╗  
+ ██║▄▄ ██║██║   ██║██║   ██║   ██║   ██╔══╝  
+ ╚██████╔╝╚██████╔╝╚██████╔╝   ██║   ███████╗
+  ╚══▀▀═╝  ╚═════╝  ╚═════╝    ╚═╝   ╚══════╝
+```
+
+<br/>
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+
+</div>
+
+<br/>
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
+</div>
+
+<br/>
+
+<!-- ============================================================ -->
+<!--                  MISSION / GOALS                            -->
+<!-- ============================================================ -->
+
+<div align="center">
+
+```
+███╗   ███╗██╗███████╗███████╗██╗ ██████╗ ███╗   ██╗
+████╗ ████║██║██╔════╝██╔════╝██║██╔═══██╗████╗  ██║
+██╔████╔██║██║███████╗███████╗██║██║   ██║██╔██╗ ██║
+██║╚██╔╝██║██║╚════██║╚════██║██║██║   ██║██║╚██╗██║
+██║ ╚═╝ ██║██║███████║███████║██║╚██████╔╝██║ ╚████║
+╚═╝     ╚═╝╚═╝╚══════╝╚══════╝╚═╝ ╚═════╝ ╚═╝  ╚═══╝
+```
+
+</div>
+
+<br/>
 
 ```yaml
 mission:
   title: "Engineering Elite Security. One Layer at a Time."
-  
+
   current_objectives:
-    - 🔐 Master advanced threat hunting and detection engineering
-    - ☁️ Deep-dive into cloud security architecture (AWS + Azure)
-    - 🐍 Build Python-powered security automation pipelines
-    - 🧪 Earn industry certifications: CompTIA Security+, CEH, AWS Security
-    - 🌐 Contribute to open-source cybersecurity tooling
-    - 🚨 Strengthen SOC skills through real-world lab environments
-    - 🏴 Compete in CTF challenges to sharpen offensive skills
-    - 📖 Document every project — make the learning visible
+    - Master advanced threat hunting and detection engineering
+    - Deep-dive into cloud security architecture — AWS + Azure
+    - Build Python-powered security automation pipelines
+    - Earn certifications: CompTIA Security+, CEH, AWS Security Specialty
+    - Contribute to open-source cybersecurity tooling
+    - Compete in CTF challenges to sharpen offensive skills
 
   long_term_vision:
     - Become a Cloud Security Architect
-    - Lead security engineering teams
-    - Build tools that protect real infrastructure
-    - Give back to the cybersecurity community
-    
-  status: ACTIVE ✅
+    - Lead security engineering teams at scale
+    - Build tools that protect real infrastructure at scale
+
+  status: ▓▓▓▓▓▓▓▓▓░  ACTIVE — EXECUTING
 ```
 
 <br/>
 
----
-
-<br/>
-
-<!-- ═══════════════════════════════════════════════════ -->
-<!--              CERTIFICATIONS / LEARNING             -->
-<!-- ═══════════════════════════════════════════════════ -->
-
-## `> ls ~/certs/ --progress`
+<!-- ============================================================ -->
+<!--                   FOOTER BANNER                             -->
+<!-- ============================================================ -->
 
 <div align="center">
 
-| 📜 Certification / Course | 🏢 Provider | 📊 Status |
-|:---|:---|:---:|
-| CompTIA Security+ | CompTIA | 🔄 In Progress |
-| AWS Cloud Practitioner | Amazon Web Services | 🔄 In Progress |
-| Google Cybersecurity Certificate | Coursera / Google | 🔄 In Progress |
-| Certified Ethical Hacker (CEH) | EC-Council | 🎯 Targeted |
-| TryHackMe — SOC Level 1 | TryHackMe | 🔄 Active |
-| Hack The Box — Starting Point | Hack The Box | 🔄 Active |
+```
+░█████╗░██╗██████╗░██╗░░██╗███████╗██████╗░      ░██████╗░█████╗░██╗███████╗
+██╔══██╗██║██╔══██╗██║░░██║██╔════╝██╔══██╗     ██╔════╝██╔══██╗██║██╔════╝
+██║░░╚═╝██║██████╔╝███████║█████╗░░██████╔╝     ╚█████╗░███████║██║█████╗░░
+██║░░██╗██║██╔═══╝░██╔══██║██╔══╝░░██╔══██╗     ░╚═══██╗██╔══██║██║██╔══╝░░
+╚█████╔╝██║██║░░░░░██║░░██║███████╗██║░░██║     ██████╔╝██║░░██║██║██║░░░░░
+░╚════╝░╚═╝╚═╝░░░░░╚═╝░░╚═╝╚══════╝╚═╝░░╚═╝     ╚═════╝░╚═╝░░╚═╝╚═╝╚═╝░░░░░
+```
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7b2fff,50:3b0080,100:0d0117&height=130&section=footer&animation=fadeIn" width="100%"/>
+
+***`[ Riyadh, Saudi Arabia 🇸🇦 · cipher-saif · Building · Hunting · Defending ]`***
 
 </div>
 
-<!-- 
-  💡 TIP: Replace status emojis:
-  ✅ = Completed | 🔄 = In Progress | 🎯 = Targeted/Planned
--->
+<!-- ============================================================
+  SNAKE ANIMATION SETUP
+  Path: .github/workflows/snake.yml
 
-<br/>
-
----
-
-<br/>
-
-<!-- ═══════════════════════════════════════════════ -->
-<!--                CONTACT SECTION                 -->
-<!-- Replace all placeholder links below            -->
-<!-- ═══════════════════════════════════════════════ -->
-
-## `> ping --connect saif`
-
-<div align="center">
-
-<br/>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mohammed%20Saifuddin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117)](https://linkedin.com/in/YOUR_LINKEDIN_USERNAME)
-&nbsp;
-[![GitHub](https://img.shields.io/badge/GitHub-YOUR__USERNAME-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117)](https://github.com/YOUR_GITHUB_USERNAME)
-&nbsp;
-[![Email](https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117)](mailto:YOUR_EMAIL@gmail.com)
-
-<br/>
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Site-00ff88?style=for-the-badge&logo=firefox&logoColor=white&labelColor=0d1117)](https://YOUR_PORTFOLIO_SITE.com)
-&nbsp;
-[![TryHackMe](https://img.shields.io/badge/TryHackMe-Profile-212C42?style=for-the-badge&logo=tryhackme&logoColor=red&labelColor=0d1117)](https://tryhackme.com/p/YOUR_THM_USERNAME)
-&nbsp;
-[![Twitter](https://img.shields.io/badge/Twitter-@YOUR__HANDLE-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=0d1117)](https://twitter.com/YOUR_TWITTER)
-
-<br/><br/>
-
-> *"The best security engineers don't just find vulnerabilities — they understand systems deeply enough to defend what matters."*
-
-<br/>
-
-</div>
-
----
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                    FOOTER BANNER                              -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00cfff,50:00ff88,100:0d0d0d&height=120&section=footer&animation=fadeIn" width="100%"/>
-
-**`[ Riyadh, Saudi Arabia 🇸🇦 · Building · Learning · Defending ]`**
-
-</div>
-
-<!-- 
-  ═══════════════════════════════════════════════════════════════
-  📋 SETUP CHECKLIST — complete these before publishing:
-  
-  1. Replace ALL instances of "YOUR_GITHUB_USERNAME" with your GitHub username
-  2. Replace "YOUR_LINKEDIN_USERNAME" with your LinkedIn profile slug
-  3. Replace "YOUR_EMAIL@gmail.com" with your actual email
-  4. Replace "YOUR_PORTFOLIO_SITE.com" with your portfolio URL (or remove badge)
-  5. Replace "YOUR_THM_USERNAME" with your TryHackMe username
-  6. Replace "YOUR_TWITTER" with your Twitter/X handle (or remove badge)
-  7. Create repo named username/username on GitHub (e.g. saifuddin/saifuddin)
-  8. Set up the snake animation GitHub Action using Platane/snk
-  9. Add pinned repo cards by creating the matching repo names
-  10. Upload this file as README.md to your profile repo
-  ═══════════════════════════════════════════════════════════════
--->
+  name: Generate Snake
+  on:
+    schedule:
+      - cron: "0 0 * * *"
+    workflow_dispatch:
+  jobs:
+    generate:
+      runs-on: ubuntu-latest
+      steps:
+        - uses: Platane/snk@v3
+          with:
+            github_user_name: cipher-saif
+            outputs: |
+              dist/github-contribution-grid-snake.svg
+              dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+        - uses: crazy-max/ghaction-github-pages@v3
+          with:
+            target_branch: output
+            build_dir: dist
+          env:
+            GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+============================================================ -->
