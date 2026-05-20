@@ -56,24 +56,26 @@
 <br/>
 <div align="center">
 
-```bash
+```
 ╔══════════════════════════════════════════════════════════════════╗
-║  ┌──[cipher-saif@secops]─[~]                                     ║
-║  └─$ whoami                                                      ║
+║   ┌──[cipher-saif@secops]──[~]                                   ║
+║   └─$ whoami                                                     ║
 ║                                                                  ║
-║    Mohammed Saifuddin                                            ║
-║    ├── Role       : Cybersecurity Engineer                       ║
-║    ├── Location   : Riyadh, Saudi Arabia 🇸🇦                      ║
-║    ├── Focus      : Threat Detection · Cloud Security · SOC Ops  ║
-║    ├── Stack      : Python · Bash · Splunk · AWS · Kali Linux    ║
-║    ├── Contact    : moh.saif0614@gmail.com                       ║
-║    └── Mission    : Engineering the defenses of tomorrow.        ║
+║   ▸  Mohammed Saifuddin                                          ║
 ║                                                                  ║
-║  ┌──[cipher-saif@secops]─[~]                                     ║
-║  └─$ cat /etc/motto                                              ║
+║   ├─[ role     ]··  Cybersecurity Engineer                       ║
+║   ├─[ location ]··  Riyadh, Saudi Arabia                         ║
+║   ├─[ focus    ]··  Threat Detection · Cloud Security · SOC      ║
+║   ├─[ stack    ]··  Python · Bash · Splunk · AWS · Kali          ║
+║   ├─[ contact  ]··  moh.saif0614@gmail.com                       ║
+║   └─[ mission  ]··  Engineering the defenses of tomorrow.        ║
 ║                                                                  ║
-║    "The quieter you become, the more you are able to hear."      ║
-║                                           — Kali Linux           ║
+║   ┌──[cipher-saif@secops]──[~]                                   ║
+║   └─$ cat /etc/motto                                             ║
+║                                                                  ║
+║   > "The quieter you become,                                     ║
+║      the more you are able to hear."                             ║
+║                                -- Kali Linux                     ║
 ╚══════════════════════════════════════════════════════════════════╝
 ```
 
@@ -89,12 +91,12 @@
 <div align="center">
 
 ```
-░█████╗░██████╗░░█████╗░██╗░░░██╗████████╗  ███╗░░░███╗███████╗░░░
-██╔══██╗██╔══██╗██╔══██╗██║░░░██║╚══██╔══╝  ████╗░████║██╔════╝░░░
-███████║██████╦╝██║░░██║██║░░░██║░░░██║░░░  ██╔████╔██║█████╗░░░░░
-██╔══██║██╔══██╗██║░░██║██║░░░██║░░░██║░░░  ██║╚██╔╝██║██╔══╝░░░░░
-██║░░██║██████╦╝╚█████╔╝╚██████╔╝░░░██║░░░  ██║░╚═╝░██║███████╗██╗
-╚═╝░░╚═╝╚═════╝░░╚════╝░░╚═════╝░░░░╚═╝░░░  ╚═╝░░░░░╚═╝╚══════╝╚═╝
+░█████╗░██████╗░░█████╗░██╗░░░██╗████████╗  ███╗░░░███╗███████╗░░░
+██╔══██╗██╔══██╗██╔══██╗██║░░░██║╚══██╔══╝  ████╗░████║██╔════╝░░░
+███████║██████╦╝██║░░██║██║░░░██║░░░██║░░░  ██╔████╔██║█████╗░░░░░
+██╔══██║██╔══██╗██║░░██║██║░░░██║░░░██║░░░  ██║╚██╔╝██║██╔══╝░░░░░
+██║░░██║██████╦╝╚█████╔╝╚██████╔╝░░░██║░░░  ██║░╚═╝░██║███████╗██╗
+╚═╝░░╚═╝╚═════╝░░╚════╝░░╚═════╝░░░░╚═╝░░░  ╚═╝░░░░░╚═╝╚══════╝╚═╝
 ```
 
 </div>
@@ -125,12 +127,12 @@ Whether it's hunting threats, writing Python scripts, or studying adversary TTPs
 
 | | |
 |:---|:---|
-|  &nbsp; **Currently Building** | SOC engineering workflows, threat detection pipelines, Python-based security automation |
-|  &nbsp; **Open to Collaborate** | Open-source cybersecurity tools — SIEM dashboards, threat detection systems, CTF write-ups |
-|  &nbsp; **Currently Mastering** | SIEM & log analysis · Threat Hunting · Incident Response · Cloud Security (AWS) |
-|  &nbsp; **Ask Me About** | Cybersecurity, SOC workflows, Python security tooling, Linux, ethical hacking |
-|  &nbsp; **Reach Me** | moh.saif0614@gmail.com |
-|  &nbsp; **Fun Fact** | *I think in threat models — even on personal devices, I'm already mapping attacker entry points* |
+| &nbsp; **Currently Building** | SOC engineering workflows, threat detection pipelines, Python-based security automation |
+| &nbsp; **Open to Collaborate** | Open-source cybersecurity tools — SIEM dashboards, threat detection systems, CTF write-ups |
+| &nbsp; **Currently Mastering** | SIEM & log analysis · Threat Hunting · Incident Response · Cloud Security (AWS) |
+| &nbsp; **Ask Me About** | Cybersecurity, SOC workflows, Python security tooling, Linux, ethical hacking |
+| &nbsp; **Reach Me** | moh.saif0614@gmail.com |
+| &nbsp; **Fun Fact** | *I think in threat models — even on personal devices, I'm already mapping attacker entry points* |
 
 </div>
 <br/>
@@ -174,12 +176,12 @@ Whether it's hunting threats, writing Python scripts, or studying adversary TTPs
 <div align="center">
 
 ```
-░█████╗░██╗░░░██╗██████╗░███████╗██████╗░  ░██████╗███████╗░█████╗░░░░
-██╔══██╗╚██╗░██╔╝██╔══██╗██╔════╝██╔══██╗  ██╔════╝██╔════╝██╔══██╗░░░
-██║░░╚═╝░╚████╔╝░██████╦╝█████╗░░██████╔╝  ╚█████╗░█████╗░░██║░░╚═╝░░░
-██║░░██╗░░╚██╔╝░░██╔══██╗██╔══╝░░██╔══██╗  ░╚═══██╗██╔══╝░░██║░░██╗░░░
-╚█████╔╝░░░██║░░░██████╦╝███████╗██║░░██║  ██████╔╝███████╗╚█████╔╝██╗
-░╚════╝░░░░╚═╝░░░╚═════╝░╚══════╝╚═╝░░╚═╝  ╚═════╝░╚══════╝░╚════╝░╚═╝
+░█████╗░██╗░░░██╗██████╗░███████╗██████╗░  ░██████╗███████╗░█████╗░░░░
+██╔══██╗╚██╗░██╔╝██╔══██╗██╔════╝██╔══██╗  ██╔════╝██╔════╝██╔══██╗░░░
+██║░░╚═╝░╚████╔╝░██████╦╝█████╗░░██████╔╝  ╚█████╗░█████╗░░██║░░╚═╝░░░
+██║░░██╗░░╚██╔╝░░██╔══██╗██╔══╝░░██╔══██╗  ░╚═══██╗██╔══╝░░██║░░██╗░░░
+╚█████╔╝░░░██║░░░██████╦╝███████╗██║░░██║  ██████╔╝███████╗╚█████╔╝██╗
+░╚════╝░░░░╚═╝░░░╚═════╝░╚══════╝╚═╝░░╚═╝  ╚═════╝░╚══════╝░╚════╝░╚═╝
 ```
 
 <br/>
@@ -215,12 +217,12 @@ Whether it's hunting threats, writing Python scripts, or studying adversary TTPs
 <div align="center">
 
 ```
-████████╗███████╗░█████╗░██╗░░██╗  ░██████╗████████╗░█████╗░░█████╗░██╗░░██╗░░░
-╚══██╔══╝██╔════╝██╔══██╗██║░░██║  ██╔════╝╚══██╔══╝██╔══██╗██╔══██╗██║░██╔╝░░░
-░░░██║░░░█████╗░░██║░░╚═╝███████║  ╚█████╗░░░░██║░░░███████║██║░░╚═╝█████═╝░░░░
-░░░██║░░░██╔══╝░░██║░░██╗██╔══██║  ░╚═══██╗░░░██║░░░██╔══██║██║░░██╗██╔═██╗░░░░
-░░░██║░░░███████╗╚█████╔╝██║░░██║  ██████╔╝░░░██║░░░██║░░██║╚█████╔╝██║░╚██╗██╗
-░░░╚═╝░░░╚══════╝░╚════╝░╚═╝░░╚═╝  ╚═════╝░░░░╚═╝░░░╚═╝░░╚═╝░╚════╝░╚═╝░░╚═╝╚═╝
+████████╗███████╗░█████╗░██╗░░██╗  ░██████╗████████╗░█████╗░░█████╗░██╗░░██╗░░░
+╚══██╔══╝██╔════╝██╔══██╗██║░░██║  ██╔════╝╚══██╔══╝██╔══██╗██╔══██╗██║░██╔╝░░░
+░░░██║░░░█████╗░░██║░░╚═╝███████║  ╚█████╗░░░░██║░░░███████║██║░░╚═╝█████═╝░░░░
+░░░██║░░░██╔══╝░░██║░░██╗██╔══██║  ░╚═══██╗░░░██║░░░██╔══██║██║░░██╗██╔═██╗░░░░
+░░░██║░░░███████╗╚█████╔╝██║░░██║  ██████╔╝░░░██║░░░██║░░██║╚█████╔╝██║░╚██╗██╗
+░░░╚═╝░░░╚══════╝░╚════╝░╚═╝░░╚═╝  ╚═════╝░░░░╚═╝░░░╚═╝░░╚═╝░╚════╝░╚═╝░░╚═╝╚═╝
 ```
 
 </div>
@@ -496,7 +498,72 @@ Whether it's hunting threats, writing Python scripts, or studying adversary TTPs
 <!-- ============================================================ -->
 <div align="center">
 
+```
+░█████╗░░█████╗░███╗░░██╗████████╗██████╗░██╗██████╗░░██████╗
+██╔══██╗██╔══██╗████╗░██║╚══██╔══╝██╔══██╗██║██╔══██╗██╔════╝
+██║░░╚═╝██║░░██║██╔██╗██║░░░██║░░░██████╔╝██║██████╔╝╚█████╗░
+██║░░██╗██║░░██║██║╚████║░░░██║░░░██╔══██╗██║██╔══██╗░╚═══██╗
+╚█████╔╝╚█████╔╝██║░╚███║░░░██║░░░██║░░██║██║██████╔╝██████╔╝
+░╚════╝░░╚════╝░╚═╝░░╚══╝░░░╚═╝░░░╚═╝░░╚═╝╚═╝╚═════╝░╚═════╝░
+```
 
+<br/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/cipher-saif/cipher-saif/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/cipher-saif/cipher-saif/output/github-contribution-grid-snake.svg" />
+  <img alt="github-contribution-grid-snake" src="https://raw.githubusercontent.com/cipher-saif/cipher-saif/output/github-contribution-grid-snake-dark.svg" width="100%" />
+</picture>
+
+</div>
+<br/>
+
+<!--
+  ═══════════════════════════════════════════════════════════════
+  SNAKE SETUP — DO THIS ONCE:
+
+  1. Go to your cipher-saif/cipher-saif repo
+  2. Click Actions → New workflow → set up a workflow yourself
+  3. Name the file: snake.yml
+  4. Paste the following YAML exactly:
+
+  ───────────────────────────────────────────────────────────────
+  name: Generate Snake Animation
+  on:
+    schedule:
+      - cron: "0 0 * * *"
+    workflow_dispatch:
+  jobs:
+    generate:
+      runs-on: ubuntu-latest
+      timeout-minutes: 10
+      steps:
+        - name: Generate snake animation
+          uses: Platane/snk/svg-only@v3
+          with:
+            github_user_name: cipher-saif
+            outputs: |
+              dist/github-contribution-grid-snake.svg
+              dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+          env:
+            GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        - name: Push to output branch
+          uses: peaceiris/actions-gh-pages@v3
+          with:
+            github_token: ${{ secrets.GITHUB_TOKEN }}
+            publish_dir: ./dist
+            publish_branch: output
+  ───────────────────────────────────────────────────────────────
+
+  5. Commit the file
+  6. Go to Actions tab → click "Generate Snake Animation" → Run workflow
+  7. Wait ~1 min → snake SVG will appear at the URL above ✓
+
+  After first run it auto-updates daily at midnight.
+  ═══════════════════════════════════════════════════════════════
+-->
+
+<div align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:3b0080,100:7b2fff&height=3&section=header" width="100%"/></div>
 
 <br/>
 <!-- ============================================================ -->
@@ -505,12 +572,12 @@ Whether it's hunting threats, writing Python scripts, or studying adversary TTPs
 <div align="center">
 
 ```
-░█████╗░  ░██████╗░██╗░░░██╗░█████╗░████████╗███████╗░░░
-██╔══██╗  ██╔═══██╗██║░░░██║██╔══██╗╚══██╔══╝██╔════╝░░░
-███████║  ██║██╗██║██║░░░██║██║░░██║░░░██║░░░█████╗░░░░░
-██╔══██║  ╚██████╔╝██║░░░██║██║░░██║░░░██║░░░██╔══╝░░░░░
-██║░░██║  ░╚═██╔═╝░╚██████╔╝╚█████╔╝░░░██║░░░███████╗██╗
-╚═╝░░╚═╝  ░░░╚═╝░░░░╚═════╝░░╚════╝░░░░╚═╝░░░╚══════╝╚═╝
+░█████╗░  ░██████╗░██╗░░░██╗░█████╗░████████╗███████╗░░░
+██╔══██╗  ██╔═══██╗██║░░░██║██╔══██╗╚══██╔══╝██╔════╝░░░
+███████║  ██║██╗██║██║░░░██║██║░░██║░░░██║░░░█████╗░░░░░
+██╔══██║  ╚██████╔╝██║░░░██║██║░░██║░░░██║░░░██╔══╝░░░░░
+██║░░██║  ░╚═██╔═╝░╚██████╔╝╚█████╔╝░░░██║░░░███████╗██╗
+╚═╝░░╚═╝  ░░░╚═╝░░░░╚═════╝░░╚════╝░░░░╚═╝░░░╚══════╝╚═╝
 ```
 
 <br/>
@@ -529,13 +596,12 @@ Whether it's hunting threats, writing Python scripts, or studying adversary TTPs
 <div align="center">
 
 ```
-
-███╗░░░███╗██╗░░░██╗  ███╗░░░███╗██╗░██████╗░██████╗██╗░█████╗░███╗░░██╗░░░
-████╗░████║╚██╗░██╔╝  ████╗░████║██║██╔════╝██╔════╝██║██╔══██╗████╗░██║░░░
-██╔████╔██║░╚████╔╝░  ██╔████╔██║██║╚█████╗░╚█████╗░██║██║░░██║██╔██╗██║░░░
-██║╚██╔╝██║░░╚██╔╝░░  ██║╚██╔╝██║██║░╚═══██╗░╚═══██╗██║██║░░██║██║╚████║░░░
-██║░╚═╝░██║░░░██║░░░  ██║░╚═╝░██║██║██████╔╝██████╔╝██║╚█████╔╝██║░╚███║██╗
-╚═╝░░░░░╚═╝░░░╚═╝░░░  ╚═╝░░░░░╚═╝╚═╝╚═════╝░╚═════╝░╚═╝░╚════╝░╚═╝░░╚══╝╚═╝
+███╗░░░███╗██╗░░░██╗  ███╗░░░███╗██╗░██████╗░██████╗██╗░█████╗░███╗░░██╗░░░
+████╗░████║╚██╗░██╔╝  ████╗░████║██║██╔════╝██╔════╝██║██╔══██╗████╗░██║░░░
+██╔████╔██║░╚████╔╝░  ██╔████╔██║██║╚█████╗░╚█████╗░██║██║░░██║██╔██╗██║░░░
+██║╚██╔╝██║░░╚██╔╝░░  ██║╚██╔╝██║██║░╚═══██╗░╚═══██╗██║██║░░██║██║╚████║░░░
+██║░╚═╝░██║░░░██║░░░  ██║░╚═╝░██║██║██████╔╝██████╔╝██║╚█████╔╝██║░╚███║██╗
+╚═╝░░░░░╚═╝░░░╚═╝░░░  ╚═╝░░░░░╚═╝╚═╝╚═════╝░╚═════╝░╚═╝░╚════╝░╚═╝░░╚══╝╚═╝
 ```
 
 </div>
