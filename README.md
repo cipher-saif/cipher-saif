@@ -453,15 +453,15 @@ Whether it's hunting threats, writing Python scripts, or studying adversary TTPs
 
 <br/>
 
-![](https://github-readme-stats.vercel.app/api?username=cipher-saif&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=true&border_radius=10)
+![](https://github-readme-stats.vercel.app/api?username=cipher-saif&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=true&border_radius=10&cache_seconds=86400)
 
 <br/>
 
-![](https://streak-stats.demolab.com/?user=cipher-saif&theme=midnight-purple&hide_border=true&border_radius=10)
+![](https://streak-stats.demolab.com/?user=cipher-saif&theme=midnight-purple&hide_border=true&border_radius=10&cache_seconds=86400)
 
 <br/>
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=cipher-saif&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=true&layout=compact&border_radius=10)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=cipher-saif&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=true&layout=compact&border_radius=10&cache_seconds=86400)
 
 </div>
 <br/>
@@ -473,19 +473,21 @@ Whether it's hunting threats, writing Python scripts, or studying adversary TTPs
 <!--                   GITHUB TROPHIES                           -->
 <!-- ============================================================ -->
 <div align="center">
-
-```
-████████╗██████╗░░█████╗░██████╗░██╗░░██╗██╗███████╗░██████╗░░░
-╚══██╔══╝██╔══██╗██╔══██╗██╔══██╗██║░░██║██║██╔════╝██╔════╝░░░
-░░░██║░░░██████╔╝██║░░██║██████╔╝███████║██║█████╗░░╚█████╗░░░░
-░░░██║░░░██╔══██╗██║░░██║██╔═══╝░██╔══██║██║██╔══╝░░░╚═══██╗░░░
-░░░██║░░░██║░░██║╚█████╔╝██║░░░░░██║░░██║██║███████╗██████╔╝██╗
-░░░╚═╝░░░╚═╝░░╚═╝░╚════╝░╚═╝░░░░░╚═╝░░╚═╝╚═╝╚══════╝╚═════╝░╚═╝
-```
+  
+██╗░░██╗██╗░██████╗░██╗░░██╗██╗░░░░░██╗░██████╗░██╗░░██╗████████╗░██████╗░░░
+██║░░██║██║██╔════╝░██║░░██║██║░░░░░██║██╔════╝░██║░░██║╚══██╔══╝██╔════╝░░░
+███████║██║██║░░██╗░███████║██║░░░░░██║██║░░██╗░███████║░░░██║░░░╚█████╗░░░░
+██╔══██║██║██║░░╚██╗██╔══██║██║░░░░░██║██║░░╚██╗██╔══██║░░░██║░░░░╚═══██╗░░░
+██║░░██║██║╚██████╔╝██║░░██║███████╗██║╚██████╔╝██║░░██║░░░██║░░░██████╔╝██╗
+╚═╝░░╚═╝╚═╝░╚═════╝░╚═╝░░╚═╝╚══════╝╚═╝░╚═════╝░╚═╝░░╚═╝░░░╚═╝░░░╚═════╝░╚═╝
 
 <br/>
 
-![](https://github-profile-trophy.vercel.app/?username=cipher-saif&theme=darkhub&no-frame=true&no-bg=true&margin-w=6&column=7)
+[![GitHub commit activity](https://img.shields.io/github/commit-activity/y/cipher-saif/cipher-saif?style=for-the-badge&color=7b2fff&labelColor=0d1117&label=COMMITS%2FYEAR)](https://github.com/cipher-saif)
+&nbsp;
+[![GitHub Repo stars](https://img.shields.io/github/stars/cipher-saif?style=for-the-badge&color=9d4edd&labelColor=0d1117&label=TOTAL%20STARS)](https://github.com/cipher-saif)
+&nbsp;
+[![GitHub last commit](https://img.shields.io/github/last-commit/cipher-saif/cipher-saif?style=for-the-badge&color=c084fc&labelColor=0d1117&label=LAST%20COMMIT)](https://github.com/cipher-saif)
 
 </div>
 <br/>
